@@ -29,7 +29,7 @@ Se o volume do frasco não for suficiente, mostre a mensagem "não é possivel".
 
 ![Fórmula][Vazao]
 
-[Vazao]: <https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3D%20v%20%5Ccdot%20t%20%5Ctherefore%20V%20%3D%20V_%7B0%7D%20-%20%28%20%5Cupsilon%20*%20t%29>
+[Vazao]: <https://latex.codecogs.com/gif.latex?%5Cbegin%7Bmatrix%7D%20%5C%5C%20%5C%5C%20Q_%7Bv%7D%20%3D%20%5Cfrac%7B%5CDelta%20V%7D%7B%5CDelta%20t%7D%20%5C%3A%5C%3A%5C%3A%5C%3A%20%5C%5C%20%5C%5C%20%5CDelta%20V%20%3D%20Q_%7Bv%7D%20%5Ccdot%20%5CDelta%20t%20%5C%3A%5C%3A%5C%3A%5C%3A%20%5C%5C%20%5C%5C%20%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%5C%3A%20V%20%3D%20%28%20Q_%7Bv%7D%20%5Ccdot%20%5CDelta%20t%20%29%20&plus;%20V_%7B0%7D%20%5Cend%7Bmatrix%7D>
 
 
 **Exemplos:**
