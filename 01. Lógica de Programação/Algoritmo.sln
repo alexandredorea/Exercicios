@@ -35,11 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo.Selecao.Exercicio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo.Selecao.Exercicio02", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio02\Algoritmo.Selecao.Exercicio02.csproj", "{10461B48-5ECE-4C28-AF3F-78AD20DA4327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo.Selecao.Exercicio03", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio03\Algoritmo.Selecao.Exercicio03.csproj", "{6F99AD37-A516-433D-A2D8-4FBE520D7892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo.Selecao.Exercicio03", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio03\Algoritmo.Selecao.Exercicio03.csproj", "{6F99AD37-A516-433D-A2D8-4FBE520D7892}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo.Selecao.Exercicio04", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio04\Algoritmo.Selecao.Exercicio04.csproj", "{41AEE71C-6EE1-4032-BC9A-48CB28A715E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo.Selecao.Exercicio04", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio04\Algoritmo.Selecao.Exercicio04.csproj", "{41AEE71C-6EE1-4032-BC9A-48CB28A715E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo.Selecao.Exercicio05", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio05\Algoritmo.Selecao.Exercicio05.csproj", "{EFE6316F-7E04-4A02-89FF-FC076CDEFD49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo.Selecao.Exercicio05", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio05\Algoritmo.Selecao.Exercicio05.csproj", "{EFE6316F-7E04-4A02-89FF-FC076CDEFD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo.Selecao.Exercicio06", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio06\Algoritmo.Selecao.Exercicio06.csproj", "{D2AEE4DD-636B-4EE5-B237-48E6B7488085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo.Selecao.Exercicio07", "02. Comandos Seleção\Algoritmo.Selecao.Exercicio07\Algoritmo.Selecao.Exercicio07.csproj", "{34C78F55-EDBD-4DA9-9DAE-1F0895445321}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +111,14 @@ Global
 		{EFE6316F-7E04-4A02-89FF-FC076CDEFD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE6316F-7E04-4A02-89FF-FC076CDEFD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE6316F-7E04-4A02-89FF-FC076CDEFD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2AEE4DD-636B-4EE5-B237-48E6B7488085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AEE4DD-636B-4EE5-B237-48E6B7488085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AEE4DD-636B-4EE5-B237-48E6B7488085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AEE4DD-636B-4EE5-B237-48E6B7488085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C78F55-EDBD-4DA9-9DAE-1F0895445321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C78F55-EDBD-4DA9-9DAE-1F0895445321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C78F55-EDBD-4DA9-9DAE-1F0895445321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C78F55-EDBD-4DA9-9DAE-1F0895445321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -129,6 +141,8 @@ Global
 		{6F99AD37-A516-433D-A2D8-4FBE520D7892} = {0660ED1F-2CE8-4CD5-A7FB-370FCF050A14}
 		{41AEE71C-6EE1-4032-BC9A-48CB28A715E0} = {0660ED1F-2CE8-4CD5-A7FB-370FCF050A14}
 		{EFE6316F-7E04-4A02-89FF-FC076CDEFD49} = {0660ED1F-2CE8-4CD5-A7FB-370FCF050A14}
+		{D2AEE4DD-636B-4EE5-B237-48E6B7488085} = {0660ED1F-2CE8-4CD5-A7FB-370FCF050A14}
+		{34C78F55-EDBD-4DA9-9DAE-1F0895445321} = {0660ED1F-2CE8-4CD5-A7FB-370FCF050A14}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {15563A0E-8CB7-40F6-82E0-2D92A22DC417}
