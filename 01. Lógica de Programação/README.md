@@ -26,13 +26,13 @@ Para resolução dos exercícios foi utilizado C# como linguagem e o Visual Stud
 
 ### Comandos IF
 
-* [Exercício 01](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio01)
-* [Exercício 02](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio02)
-* [Exercício 03](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio03)
-* [Exercício 04](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio04)
-* [Exercício 05](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio05)
-* [Exercício 06](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio06)
-* [Exercício 07](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio07)
+* [Exercício 01](https://github.com/alexandredorea/Exercicios/tree/master/01.%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio01)
+* [Exercício 02](https://github.com/alexandredorea/Exercicios/tree/master/01.%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio02)
+* [Exercício 03](https://github.com/alexandredorea/Exercicios/tree/master/01.%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio03)
+* [Exercício 04](https://github.com/alexandredorea/Exercicios/tree/master/01.%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio04)
+* [Exercício 05](https://github.com/alexandredorea/Exercicios/tree/master/01.%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio05)
+* [Exercício 06](https://github.com/alexandredorea/Exercicios/tree/master/01.%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio06)
+* [Exercício 07](https://github.com/alexandredorea/Exercicios/tree/master/01.%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio07)
 * Exercício 08
 * Exercício 09
 * Exercício 10
