@@ -1,38 +1,38 @@
-# Lógica de programação
+# LÃ³gica de programaÃ§Ã£o
 
-Para quem está começando a programar, é aconselhado estudar o que chamamos de lógica de programação. Além de técnicas específicas que se aplicam à programação de forma geral, estudar lógica despertará em você uma visão crítica voltada à resolução de problemas, o que é fundamental para a criação de softwares.
+Para quem estÃ¡ comeÃ§ando a programar, Ã© aconselhado estudar o que chamamos de lÃ³gica de programaÃ§Ã£o. AlÃ©m de tÃ©cnicas especÃ­ficas que se aplicam Ã  programaÃ§Ã£o de forma geral, estudar lÃ³gica despertarÃ¡ em vocÃª uma visÃ£o crÃ­tica voltada Ã  resoluÃ§Ã£o de problemas, o que Ã© fundamental para a criaÃ§Ã£o de softwares.
 
-A lógica de programação com certeza a parte mais importante para quem quer aprender programar e este repositório foi criado com todos os meus exercícios realizados em C#, onde tentei abordar todos os tópicos importantes e necessários para você se familiarizar com a lógica de programação.
+A lÃ³gica de programaÃ§Ã£o com certeza a parte mais importante para quem quer aprender programar e este repositÃ³rio foi criado com todos os meus exercÃ­cios realizados em C#, onde tentei abordar todos os tÃ³picos importantes e necessÃ¡rios para vocÃª se familiarizar com a lÃ³gica de programaÃ§Ã£o.
 
-Para resolução dos exercícios foi utilizado C# como linguagem e o Visual Studio.
+Para resoluÃ§Ã£o dos exercÃ­cios foi utilizado C# como linguagem e o Visual Studio.
 
-# Lista de exercícios
+# Lista de exercÃ­cios
 
-## Comandos de entrada e saída
+## Comandos de entrada e saÃ­da
 
-* [Exercício 01](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio01)
-* [Exercício 02](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio02)
-* [Exercício 03](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio03)
-* [Exercício 04](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio04)
-* [Exercício 05](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio05)
-* [Exercício 06](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio06)
-* [Exercício 07](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio07)
-* [Exercício 08](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio08)
-* [Exercício 09](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio09)
-* [Exercício 10](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio10)
+* [ExercÃ­cio 01](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio01)
+* [ExercÃ­cio 02](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio02)
+* [ExercÃ­cio 03](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio03)
+* [ExercÃ­cio 04](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio04)
+* [ExercÃ­cio 05](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio05)
+* [ExercÃ­cio 06](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio06)
+* [ExercÃ­cio 07](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio07)
+* [ExercÃ­cio 08](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio08)
+* [ExercÃ­cio 09](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio09)
+* [ExercÃ­cio 10](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Comandos%20IO/Algoritmo.IO.Exercicio10)
 
 
-## Comandos de seleção
+## Comandos de seleÃ§Ã£o
 
 ### Comandos IF
 
-* [Exercício 01](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio01)
-* [Exercício 02](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio02)
-* [Exercício 03](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio03)
-* [Exercício 04](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio04)
-* [Exercício 05](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio05)
-* Exercício 06
-* Exercício 07
-* Exercício 08
-* Exercício 09
-* Exercício 10
+* [ExercÃ­cio 01](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio01)
+* [ExercÃ­cio 02](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio02)
+* [ExercÃ­cio 03](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio03)
+* [ExercÃ­cio 04](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio04)
+* [ExercÃ­cio 05](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio05)
+* [ExercÃ­cio 06](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio06)
+* [ExercÃ­cio 07](https://github.com/alexandredorea/Exercicios/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Comandos%20Sele%C3%A7%C3%A3o/Algoritmo.Selecao.Exercicio07)
+* ExercÃ­cio 08
+* ExercÃ­cio 09
+* ExercÃ­cio 10
