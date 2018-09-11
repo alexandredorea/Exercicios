@@ -15,15 +15,14 @@ namespace Algoritmo.Selecao.Exercicio07
             Console.Write("Informe o tempo: ");
             var tempo = Convert.ToInt32(Console.ReadLine());
 
-            var volumeFinal = 0;
-            Console.Clear();
+	        Console.Clear();
 
             if (vazaoBomba * tempo > volumeInicial)
                 Console.Write("Não é possível");
             else
             {
-                volumeFinal = volumeInicial - (vazaoBomba * tempo);
-                Console.WriteLine($"O volume de veneno restante no frasco após o uso da bomba durante este tempo foi de {volumeFinal}.");
+	            var volumeFinal = volumeInicial - (vazaoBomba * tempo);
+	            Console.WriteLine($"O volume de veneno restante no frasco após o uso da bomba durante este tempo foi de {volumeFinal}.");
             }
         }
     }
